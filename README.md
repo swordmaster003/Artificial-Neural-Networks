@@ -4,7 +4,7 @@ The most important feature of this artificial neural networks is the ability to 
 
 ![image](https://github.com/swordmaster003/Artificial-Neural-Networks/blob/master/Screenshots/Cover.png)
 
-In this package,the artificial neural networks chose the back propagation algorithm to learn something
+In this package,the artificial neural networks chose the back propagation algorithm to learn something.
 
 ![image](https://github.com/swordmaster003/Artificial-Neural-Networks/blob/master/Screenshots/3.png)
 
